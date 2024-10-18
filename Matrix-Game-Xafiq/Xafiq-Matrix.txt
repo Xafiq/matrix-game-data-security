@@ -1,0 +1,32 @@
+Clasificación de Datos: Clasificar los datos sensibles en diferentes niveles de sensibilidad para priorizar los esfuerzos de cifrado.
+Limitando el accesso a los datos sensibles, mejora la gestion de los datos.
+Gestión de Cifrado: Implementar un sistema robusto de gestión de cifrado para manejar la generación, almacenamiento y rotación de claves de manera segura.
+Protege los datos sensibles si llegasen a ser filtrados o accedidos por personal no autorizado.
+Medidas de Seguridad Complementarias: Asegurar controles de acceso sólidos, auditorías de seguridad regulares y capacitación continua para los empleados sobre las mejores prácticas para el manejo seguro de datos.
+Reduce los contacos indebidos a datos sensibles por parte de personal no otorizado. Asi como filtraciones de los datos.
+Auditorías Programadas: Realizar auditorías de seguridad programadas anualmente para asegurar el cumplimiento con las regulaciones.
+Previene possibles multas debido al no cumplimiento de la normativa vigente, y protege en caso de processo judical.
+Plan de Respuesta a Incidentes. Reduce enormemente el tiempo de respuesta a ataques y en caso de rotacion de plantilla, al haber un plan de accion se reduce tambien la probabilidad de cometer errores en un incidente. Ademas, una respuesta rapida a un incidente nos brinda una mayor integridad y disponibilidad de los datos 
+Monitoreo Continuo: Implementar herramientas de monitoreo continuo.
+Deteccion temprana de Amenazas: El Monitoreo en tiempo real para prevenir possibles data breach y salvaguardar la reputacion de la entidad.
+Implementar un programa integral de capacitación en ciberseguridad para todos los empleados de 4Geeks Academy. 
+Esto educará al personal sobre cómo reconocer intentos de phishing, asegurar sus propios dispositivos y manejar información sensible de manera responsable.
+Capacitación Integral: Proporcionar capacitación continua en ciberseguridad adaptada a diferentes roles y responsabilidades.
+Al capacitar al personal, los cambios son menos bruscos para los usuarios y supondrá una mayor usabilidad para los mismos de las nuevas erramientas que se incorporen
+Simulaciones y Ejercicios: Realizar regularmente ataques simulados de phishing y otros simulacros de seguridad para mantener a los empleados alerta y adaptables.
+- Las simulaciones y ejercicios son una gran herramienta para evaluar la efectividad de la capacitación y encontrar los puntos que deberían ser tratados en futuras formaciones.
+Mecanismo de Reporte de Incidentes: Establecer un sistema de reporte anónimo de incidentes para que los empleados informen sobre posibles vulnerabilidades o actividades sospechosas sin temor a represalias.
+- Detección temprana de amenazas, fomento de cultura de ciberseguridad, mejora continua, respuesta rapida de incidentes
+"Deteccion temprana de amenazas, permite identificar patrones sospechoso.Reduce los tiempos de respuesta ante incidentes, evitando que se propaguen"
+Actualizaciones Regulares: Mantener todos los sistemas y software actualizados con los últimos parches y actualizaciones de seguridad.
+"Correccion de vulnerabilidades, proteccion contra nuevos tipos de amenazas, Mejorar el rendimiento del sistema
+Nuevas funcionalidades y caracteristicas, compatibilidad con nuevas tecnologias, cumplimiento normativo
+"
+Cumplimiento de Regulaciones: Revisar y actualizar regularmente políticas y procedimientos para cumplir con las regulaciones de privacidad relevantes.
+"Deteccion temprana de amenazas, permite identificar patrones sospechoso.
+Reduce los tiempos de respuesta ante incidentes, evitando que se propaguen
+Prevencion proactiva utilizando (IDS/IPS) bloqueando ataques antes de afectar los sistemas
+Se asegura el cumplimiento normativo
+Visibilidad y control en tiempo real"
+Implementar un Endpoint que nos verifique todo el trafico de la red y al mismo tiempo funcione como antivirus en tiempo real, para evitar ataques de phishing, man in the middle y trafico indebido de los usuarios 
+Watchguard endpoint nos proporciona tanto el hardware como software, lo cual hace que el precio se bastante competitivo, y una vez configurado, es muy sencillo de mantener, teniendo una gestión centralizada
